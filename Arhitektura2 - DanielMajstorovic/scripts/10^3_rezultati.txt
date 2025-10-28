@@ -1,0 +1,11 @@
+Dimenzija slike: 100 x 50
+Slika na putanji: .\Slike\Ulaz\10^3.jpg
+Bez optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.005933 Varijansa: 0.000000
+Bez optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.003448 Varijansa: 0.000000O1 optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.008829 Varijansa: 0.000000
+O1 optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.003090 Varijansa: 0.000000
+O2 optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.008401 Varijansa: 0.000000
+O2 optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.002457 Varijansa: 0.000000
+OX optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.009232 Varijansa: 0.000001
+OX optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.003230 Varijansa: 0.000000
+Intrinzicne funkcije: Srednje vrijeme: 0.008214 Varijansa: 0.000000
+Intrinzicne funkcije (paralelno): Srednje vrijeme: 0.001407 Varijansa: 0.000000

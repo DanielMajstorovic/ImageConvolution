@@ -1,0 +1,11 @@
+Dimenzija slike: 250 x 250
+Slika na putanji: .\Slike\Ulaz\10^4.jpg
+Bez optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.069037 Varijansa: 0.000003
+Bez optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.030557 Varijansa: 0.000001O1 optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.064498 Varijansa: 0.000047
+O1 optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.033310 Varijansa: 0.000014
+O2 optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.064103 Varijansa: 0.000005
+O2 optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.031488 Varijansa: 0.000001
+OX optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.063431 Varijansa: 0.000005
+OX optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.030736 Varijansa: 0.000001
+Intrinzicne funkcije: Srednje vrijeme: 0.049557 Varijansa: 0.000003
+Intrinzicne funkcije (paralelno): Srednje vrijeme: 0.016582 Varijansa: 0.000000

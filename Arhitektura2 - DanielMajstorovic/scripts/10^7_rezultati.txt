@@ -1,0 +1,11 @@
+Dimenzija slike: 11256 x 3637
+Slika na putanji: .\Slike\Ulaz\10^7.jpg
+Bez optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 50.567323 Varijansa: 0.210088
+Bez optimizacija, paralelno izvrsavanje: Srednje vrijeme: 21.075458 Varijansa: 0.147476O1 optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 49.341906 Varijansa: 0.112074
+O1 optimizacija, paralelno izvrsavanje: Srednje vrijeme: 22.573938 Varijansa: 0.085742
+O2 optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 49.630807 Varijansa: 1.163352
+O2 optimizacija, paralelno izvrsavanje: Srednje vrijeme: 22.552851 Varijansa: 0.090952
+OX optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 49.308174 Varijansa: 0.075623
+OX optimizacija, paralelno izvrsavanje: Srednje vrijeme: 22.740485 Varijansa: 0.223518
+Intrinzicne funkcije: Srednje vrijeme: 38.503168 Varijansa: 0.101024
+Intrinzicne funkcije (paralelno): Srednje vrijeme: 12.298548 Varijansa: 0.528200

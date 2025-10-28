@@ -1,0 +1,11 @@
+Dimenzija slike: 4226 x 2847
+Slika na putanji: .\Slike\Ulaz\10^6.jpg
+Bez optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 12.796931 Varijansa: 0.005153
+Bez optimizacija, paralelno izvrsavanje: Srednje vrijeme: 6.148181 Varijansa: 0.001870O1 optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 12.474897 Varijansa: 0.005391
+O1 optimizacija, paralelno izvrsavanje: Srednje vrijeme: 6.340844 Varijansa: 0.001775
+O2 optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 12.477179 Varijansa: 0.005518
+O2 optimizacija, paralelno izvrsavanje: Srednje vrijeme: 6.266202 Varijansa: 0.014138
+OX optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 12.449441 Varijansa: 0.001684
+OX optimizacija, paralelno izvrsavanje: Srednje vrijeme: 6.323603 Varijansa: 0.001779
+Intrinzicne funkcije: Srednje vrijeme: 9.888141 Varijansa: 0.000390
+Intrinzicne funkcije (paralelno): Srednje vrijeme: 3.335821 Varijansa: 0.018519

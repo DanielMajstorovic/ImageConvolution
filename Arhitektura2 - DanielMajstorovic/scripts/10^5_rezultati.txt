@@ -1,0 +1,11 @@
+Dimenzija slike: 1000 x 676
+Slika na putanji: .\Slike\Ulaz\10^5.jpg
+Bez optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.735245 Varijansa: 0.000022
+Bez optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.329048 Varijansa: 0.000036O1 optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.720725 Varijansa: 0.000401
+O1 optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.332830 Varijansa: 0.000026
+O2 optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.693285 Varijansa: 0.000331
+O2 optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.336619 Varijansa: 0.000166
+OX optimizacija, sekvencijalno izvrsavanje: Srednje vrijeme: 0.682563 Varijansa: 0.000049
+OX optimizacija, paralelno izvrsavanje: Srednje vrijeme: 0.336286 Varijansa: 0.000077
+Intrinzicne funkcije: Srednje vrijeme: 0.553928 Varijansa: 0.000031
+Intrinzicne funkcije (paralelno): Srednje vrijeme: 0.185795 Varijansa: 0.000013
