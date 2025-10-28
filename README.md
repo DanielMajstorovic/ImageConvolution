@@ -25,7 +25,3 @@ High-performance C++ implementation of image convolution using AVX intrinsics an
 - C++ with OpenCV
 - AVX intrinsics for SIMD
 - OpenMP for parallelization
-
----
-
-**Computer Architecture Course** | 2021
